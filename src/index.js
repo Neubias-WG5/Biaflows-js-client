@@ -22,6 +22,8 @@ export {default as JobData} from './models/job-data.js';
 export {default as JobParameter} from './models/job-parameter.js';
 export {default as JobTemplateAnnotation} from './models/job-template-annotation.js';
 export {default as JobTemplate} from './models/job-template.js';
+export {default as Metric} from './models/metric.js';
+export {default as MetricResult} from './models/metric-result.js';
 export {default as Ontology} from './models/ontology.js';
 export {default as ProcessingServer} from './models/processing-server.js';
 export {default as Project} from './models/project.js';
@@ -67,6 +69,8 @@ export {default as JobDataCollection} from './collections/job-data-collection.js
 export {default as JobParameterCollection} from './collections/job-parameter-collection.js';
 export {default as JobTemplateAnnotationCollection} from './collections/job-template-annotation-collection.js';
 export {default as JobTemplateCollection} from './collections/job-template-collection.js';
+export {default as MetricCollection} from './collections/metric-collection.js';
+export {default as MetricResultCollection} from './collections/metric-result-collection.js';
 export {default as OntologyCollection} from './collections/ontology-collection.js';
 export {default as ProcessingServerCollection} from './collections/processing-server-collection.js';
 export {default as ProjectCollection} from './collections/project-collection.js';
