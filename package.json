@@ -20,7 +20,8 @@
     ],
     "author": "Burtin Elodie <elodie.burtin@cytomine.coop>",
     "contributors": [
-        "Hoyoux Renaud <renaud.hoyoux@cytomine.coop"
+        "Hoyoux Renaud <renaud.hoyoux@cytomine.coop>",
+        "Rubens Ulysse <urubens@uliege.be>"
     ],
     "license": "Apache-2.0",
     "dependencies": {
