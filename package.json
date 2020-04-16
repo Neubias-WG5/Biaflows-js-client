@@ -1,12 +1,12 @@
 {
-    "name": "cytomine-client",
+    "name": "biaflows-js-client",
     "version": "1.0.0",
     "description": "Client to communicate with Cytomine API in javascript. For more information about Cytomine, go to http://www.cytomine.org.",
     "browser": "dist/cytomine-client.min.js",
     "unpkg": "dist/cytomine-client.min.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cytomine/Cytomine-js-client.git"
+        "url": "https://github.com/Neubias-WG5/Biaflows-js-client.git"
     },
     "scripts": {
         "dev": "webpack --mode=development --watch --info-verbosity verbose",
